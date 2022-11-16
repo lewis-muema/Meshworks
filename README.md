@@ -8,7 +8,7 @@ Tags: Visual basic, .NET, File stransfer, Messaging
 
 ## Introduction
 
-This was my final university project, It allows individuals with windows based personal computers to exchange text messages and share files with one another without monetary charges or the need for internet.
+This was my final university project, It allows individuals with windows based personal computers to exchange text messages and share files with one another without the need for internet. All you have to do is connect to a network (Hotspot created by the host computer)
 
 ## Features
 
